@@ -1,0 +1,35 @@
+header {
+    background-color: darkgrey;
+    border-radius: 1em;
+}
+
+nav {
+    background-color: gainsboro;
+    border-radius: 1em;
+}
+
+body {
+    font-family: "Century Gothic", "sans-serif";
+}
+
+aside {
+    border-radius: 1em;
+}
+
+section {
+    border-radius: 1em;
+}
+
+footer {
+    border-radius: 1em;
+}
+
+#asideId {
+    font-size: 2em;
+}
+
+@media (max-width: 768px) {
+    body {
+        background-color: green;
+    }
+}
